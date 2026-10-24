@@ -1,4 +1,4 @@
-```markdown
+
 
 # 🌿 Verdant Community Bot
 
@@ -114,7 +114,7 @@ echo GROQ_API_KEY=gsk_your_key_here > .env
 # 5. Run
 streamlit run app.py
 
-```
+
 
 Opens at `http://localhost:8501`.
 
