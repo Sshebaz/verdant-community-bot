@@ -150,21 +150,13 @@ verdant-community-bot/
 
 
 | Metric | Value |
-
 |---|---|
-
 | Test comments run | 15+ |
-
 | Correct replies (en/hi/hinglish) | 5/5 |
-
 | Correct escalations | 7/7 |
-
 | Correct blocks (spam) | 2/2 |
-
 | False positives after `aap` fix | 0 |
-
 | Avg reply latency | \~1.5s |
-
 | Avg tokens per reply | \~280 in / \~90 out |
 
 
@@ -176,19 +168,19 @@ verdant-community-bot/
 
 
 
-\- \*\*Postgres\*\* instead of SQLite (concurrent writes, multi-instance).
+\*\*Postgres\*\* instead of SQLite (concurrent writes, multi-instance).
 
-\- \*\*Auth + role-based access\*\* for the escalation queue.
+\*\*Auth + role-based access\*\* for the escalation queue.
 
-\- \*\*Webhook integration\*\* with Instagram/LinkedIn (currently UI-only).
+\*\*Webhook integration\*\* with Instagram/LinkedIn (currently UI-only).
 
-\- \*\*Vector DB\*\* (Pinecone/Weaviate) for KB > 10k entries.
+\*\*Vector DB\*\* (Pinecone/Weaviate) for KB > 10k entries.
 
-\- \*\*Rate limiting + retries\*\* on Groq calls.
+\*\*Rate limiting + retries\*\* on Groq calls.
 
-\- \*\*Cost dashboard\*\* (₹ per comment, ₹ per 1000 comments).
+\*\*Cost dashboard\*\* (₹ per comment, ₹ per 1000 comments).
 
-\- \*\*A/B testing\*\* on reply tone.
+\*\*A/B testing\*\* on reply tone.
 
 
 
@@ -204,11 +196,11 @@ Built by \*\*Shebaz\*\* — AI \& Automation Engineer.
 
 
 
-\- 🔗 \[LinkedIn](https://linkedin.com/in/YOUR\_LINKEDIN)
+🔗 \[LinkedIn](https://linkedin.com/in/YOUR\_LINKEDIN)
 
-\- 💼 \[Upwork](https://upwork.com) / \[Fiverr](https://fiverr.com)
+💼 \[Upwork](https://upwork.com) / \[Fiverr](https://fiverr.com)
 
-\- 📧 siddshebaz@gmail.com
+📧 siddshebaz@gmail.com
 
 
 
