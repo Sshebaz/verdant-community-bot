@@ -174,13 +174,13 @@ verdant-community-bot/
 
 - **Webhook integration** with Instagram/LinkedIn (currently UI-only).
 
-= **Vector DB** (Pinecone/Weaviate) for KB > 10k entries.
+- **Vector DB** (Pinecone/Weaviate) for KB > 10k entries.
 
-= **Rate limiting + retries** on Groq calls.
+- **Rate limiting + retries** on Groq calls.
 
-= **Cost dashboard** (₹ per comment, ₹ per 1000 comments).
+- **Cost dashboard** (₹ per comment, ₹ per 1000 comments).
 
-= **A/B testing** on reply tone.
+- **A/B testing** on reply tone.
 
 
 
@@ -204,7 +204,7 @@ Built by **Shebaz** — AI \& Automation Engineer.
 
 
 
-= **What I do:** I build AI-operated marketing systems for D2C brands — content pipelines, brand-safe community bots, and live analytics dashboards.
+- **What I do:** I build AI-operated marketing systems for D2C brands — content pipelines, brand-safe community bots, and live analytics dashboards.
 
 
 
