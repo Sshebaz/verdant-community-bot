@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kb_001",
+    "category": "product",
+    "question": "Is the bamboo cutlery dishwasher safe?",
+    "answer": "Yes — top rack only, max 60C. Hand-wash the knife to preserve the edge."
+  },
+  {
+    "id": "kb_002",
+    "category": "product",
+    "question": "How do I clean the recycled glass bottle?",
+    "answer": "Warm water with mild soap. The bamboo cap should be wiped, not soaked. Avoid abrasive scrubbers."
+  },
+  {
+    "id": "kb_003",
+    "category": "product",
+    "question": "What sizes does the organic cotton tote come in?",
+    "answer": "Two sizes: Standard (38x42 cm) and Large (45x50 cm). Both have the same strap length."
+  },
+  {
+    "id": "kb_004",
+    "category": "product",
+    "question": "Can I put hot liquids in the glass bottle?",
+    "answer": "Yes, up to 80C. Let boiling water cool for 5 minutes before pouring to avoid thermal shock."
+  },
+  {
+    "id": "kb_005",
+    "category": "product",
+    "question": "Does the bamboo cutlery set come with a pouch?",
+    "answer": "Yes - every set includes a hemp-cotton travel pouch. Pouches are also sold separately."
+  },
+  {
+    "id": "kb_006",
+    "category": "product",
+    "question": "How long does the bamboo cutlery last?",
+    "answer": "With hand-washing and regular oiling, 2-3 years of daily use. Dishwasher use shortens lifespan."
+  },
+  {
+    "id": "kb_007",
+    "category": "materials",
+    "question": "What is the bottle cap made of?",
+    "answer": "BPA-free bamboo with a food-grade silicone seal. No plastic touches the liquid."
+  },
+  {
+    "id": "kb_008",
+    "category": "materials",
+    "question": "Is your cotton GOTS certified?",
+    "answer": "Yes - all totes use GOTS-certified organic cotton. Certificate available on request."
+  },
+  {
+    "id": "kb_009",
+    "category": "materials",
+    "question": "Where does your bamboo come from?",
+    "answer": "Sourced from managed plantations in Assam and Kerala. Harvested without clear-cutting."
+  },
+  {
+    "id": "kb_010",
+    "category": "shipping",
+    "question": "Do you ship across India?",
+    "answer": "Yes - pan-India delivery in 3-5 business days. Free shipping on orders over Rs 999."
+  },
+  {
+    "id": "kb_011",
+    "category": "shipping",
+    "question": "How long does delivery take to Mumbai?",
+    "answer": "Metro cities including Mumbai: 2-3 business days. Remote pin codes may take 5-7 days."
+  },
+  {
+    "id": "kb_012",
+    "category": "returns",
+    "question": "Can I return a used bottle?",
+    "answer": "Unused items can be returned within 7 days. Used items only if defective - photo required."
+  },
+  {
+    "id": "kb_013",
+    "category": "sustainability",
+    "question": "How is Verdant plastic-free?",
+    "answer": "All packaging is recycled paper or compostable mailers. No plastic tape, no bubble wrap."
+  },
+  {
+    "id": "kb_014",
+    "category": "pricing",
+    "question": "Why is the tote priced at Rs 899?",
+    "answer": "GOTS cotton, fair-wage stitching, and plastic-free packaging. Full cost breakdown on the product page."
+  },
+  {
+    "id": "kb_015",
+    "category": "unknown",
+    "question": "Do you use RO water in manufacturing?",
+    "answer": ""
+  }
+]

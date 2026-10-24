@@ -1,0 +1,1 @@
+"""Core package for Verdant community bot."""
