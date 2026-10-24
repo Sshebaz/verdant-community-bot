@@ -118,8 +118,7 @@ streamlit run app.py
 
 Opens at `http://localhost:8501`.
 
-
-
+---
 
 
 \## 📁 Project structure
@@ -142,7 +141,7 @@ verdant-community-bot/
 
 
 
-
+---
 
 
 
@@ -170,7 +169,7 @@ verdant-community-bot/
 
 
 
-
+---
 
 
 \## 🔮 What I'd add for production
@@ -193,7 +192,7 @@ verdant-community-bot/
 
 
 
-
+---
 
 
 
@@ -217,7 +216,7 @@ Built by \*\*Shebaz\*\* — AI \& Automation Engineer.
 
 
 
-\---
+---
 
 
 
@@ -227,5 +226,5 @@ Built by \*\*Shebaz\*\* — AI \& Automation Engineer.
 
 MIT — use it, fork it, learn from it.
 
-```
+---
 
