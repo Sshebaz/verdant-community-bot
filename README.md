@@ -120,10 +120,9 @@ Opens at `http://localhost:8501`.
 
 ---
 
-
 ## 📁 Project structure
 
-
+```text
 verdant-community-bot/
 ├── app.py                  # Streamlit UI (5 tabs)
 ├── core/
@@ -138,6 +137,8 @@ verdant-community-bot/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+
+```
 
 
 
