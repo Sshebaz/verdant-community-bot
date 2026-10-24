@@ -94,7 +94,7 @@ Built for the fictional brand **Verdant** (sustainable home goods). Real pipelin
 
 ## 🚀 Run locally
 
-```bash
+
 # 1. Clone
 git clone https://github.com/YOUR_GITHUB_USERNAME/verdant-community-bot.git
 cd verdant-community-bot
@@ -120,8 +120,6 @@ Opens at `http://localhost:8501`.
 
 
 
-\---
-
 
 
 \## 📁 Project structure
@@ -144,7 +142,7 @@ verdant-community-bot/
 
 
 
-\---
+
 
 
 
@@ -172,7 +170,6 @@ verdant-community-bot/
 
 
 
-\---
 
 
 
@@ -196,7 +193,7 @@ verdant-community-bot/
 
 
 
-\---
+
 
 
 
