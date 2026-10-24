@@ -121,7 +121,7 @@ Opens at `http://localhost:8501`.
 ---
 
 
-\## 📁 Project structure
+## 📁 Project structure
 
 
 verdant-community-bot/
@@ -145,7 +145,7 @@ verdant-community-bot/
 
 
 
-\## 📊 Demo results (from test runs)
+## 📊 Demo results (from test runs)
 
 
 
@@ -172,7 +172,7 @@ verdant-community-bot/
 ---
 
 
-\## 🔮 What I'd add for production
+## 🔮 What I'd add for production
 
 
 
@@ -196,7 +196,7 @@ verdant-community-bot/
 
 
 
-\## 👤 About
+## 👤 About
 
 
 
@@ -220,7 +220,7 @@ Built by \*\*Shebaz\*\* — AI \& Automation Engineer.
 
 
 
-\## 📄 License
+## 📄 License
 
 
 
