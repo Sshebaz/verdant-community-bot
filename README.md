@@ -197,7 +197,7 @@ Built by **Shebaz** — AI \& Automation Engineer.
 
 
 
-🔗 \[LinkedIn](https://linkedin.com/in/YOUR\_LINKEDIN)
+🔗 \[LinkedIn](https://www.linkedin.com/in/shebaz-shaikh-569177291)
 
 💼 \[Upwork](https://upwork.com) / \[Fiverr](https://fiverr.com)
 
